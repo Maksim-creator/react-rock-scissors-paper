@@ -1,0 +1,17 @@
+.main {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.res, .counters {
+    text-align: center;
+    color: ivory;
+    background-color:inherit;
+    padding: 50px;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.counters {
+    justify-content: space-around;
+}
